@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# GGUFs
+*.gguf
+
 # C extensions
 *.so
 
